@@ -1,3 +1,11 @@
+# Data files — email/LinkedIn exports and pipeline outputs
+*.mbox
+emails.md
+emails_summarized.md
+linkedin-messages.csv
+linkedin_classified.md
+linkedin_summarized.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
